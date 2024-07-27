@@ -18,6 +18,11 @@ This project is a Streamlit application designed to interact with a dataset and 
 - **FAISS**: For efficient similarity search and vector storage.
 - **Ollama**: Utilizes the `qwen2:1.5b` LLM model for generating responses.
 - **dotenv**: For managing environment variables.
+
+
+## Architecture
+![workflow](https://github.com/user-attachments/assets/80d145ae-5ca8-4678-a6d4-e0fc880ba092)
+
 ## Setup
 
 1. **Clone the Repository**
